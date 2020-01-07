@@ -1,0 +1,12 @@
+.chalice/deployments/
+.chalice/venv/
+.git/
+__pycache__/
+chalicelib/__pycache__/
+*.pyc
+*.fatjar
+*.jar
+*.classpath
+bin/
+.project
+.settings
